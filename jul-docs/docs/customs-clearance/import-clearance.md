@@ -48,12 +48,12 @@ Import clearance is the process of obtaining customs authorization to bring good
 | Cargo Discharge | 2-6 hours | Carrier/Port | 3-4 hours |
 | Declaration Submission | 2-4 hours | Importer/Agent | 1-2 hours |
 | Customs Assessment | 2-8 hours | AGT (Customs) | 2-4 hours |
-| Payment | 1-2 hours | Importer | <1 hour |
+| Payment | 1-2 hours | Importer | Under 1 hour |
 | Inspection (if required) | 4-12 hours | AGT Inspector | 6-8 hours |
-| Release Authorization | 1-2 hours | AGT | <1 hour |
-| **Total (Green Channel)** | **6-14 hours** | **All Parties** | **<6 hours** |
-| **Total (Yellow Channel)** | **1-2 days** | **All Parties** | **<12 hours** |
-| **Total (with Inspection)** | **2-3 days** | **All Parties** | **<24 hours** |
+| Release Authorization | 1-2 hours | AGT | Under 1 hour |
+| **Total (Green Channel)** | **6-14 hours** | **All Parties** | **Under 6 hours** |
+| **Total (Yellow Channel)** | **1-2 days** | **All Parties** | **Under 12 hours** |
+| **Total (with Inspection)** | **2-3 days** | **All Parties** | **Under 24 hours** |
 
 **Express/Low-Value Shipments**: Target immediate release upon arrival for shipments under $200.
 

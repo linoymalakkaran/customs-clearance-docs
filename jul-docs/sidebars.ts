@@ -139,11 +139,38 @@ const sidebars: SidebarsConfig = {
           id: 'port-logistics-overview',
           label: 'Port Operations Overview',
         },
+        {
+          type: 'doc',
+          id: 'port-to-door-delivery',
+          label: 'Port to Door Delivery',
+        },
       ],
     },
     {
       type: 'category',
-      label: '📋 Standards & Compliance',
+      label: '� Trade Facilitation',
+      collapsed: false,
+      items: [
+        {
+          type: 'doc',
+          id: 'trade-facilitation/customs-brokers-freight-forwarders',
+          label: 'Customs Brokers & Freight Forwarders',
+        },
+        {
+          type: 'doc',
+          id: 'trade-facilitation/customs-valuation',
+          label: 'Customs Valuation',
+        },
+        {
+          type: 'doc',
+          id: 'trade-facilitation/trade-finance-insurance',
+          label: 'Trade Finance & Insurance',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: '�📋 Standards & Compliance',
       collapsed: true,
       items: [
         {

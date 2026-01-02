@@ -12,10 +12,6 @@
 4. [Architecture](#architecture)
 5. [Services](#services)
 6. [Implementation in Angola (JUL)](#implementation-in-angola-jul)
-7. [Integration Points](#integration-points)
-8. [User Journey](#user-journey)
-9. [International Standards](#international-standards)
-10. [Best Practices](#best-practices)
 
 ---
 
@@ -934,7 +930,7 @@ const timeline: TrackingTimeline = {
 - Trading partner analysis
 - Channel distribution
 
-### 7. Integration Service
+### Integration Service
 
 **External Systems**:
 - ASYCUDA World
@@ -1022,7 +1018,7 @@ const timeline: TrackingTimeline = {
 
 ---
 
-[Continue reading: Port and Logistics Operations →](../port-logistics/overview.md)
+[Continue reading: Port and Logistics Operations →](port-logistics-overview)
 
 ---
 

@@ -15,7 +15,6 @@
 7. [Port Community System](#port-community-system)
 8. [Integration with Single Window](#integration-with-single-window)
 9. [Performance Metrics](#performance-metrics)
-10. [Best Practices](#best-practices)
 
 ---
 
@@ -1042,7 +1041,7 @@ class TruckAppointmentSystem {
 
 ---
 
-## Integration with Single Window (JUL)
+## Integration with Single Window
 
 ### Data Flow
 
@@ -1109,4 +1108,4 @@ public class JULPortIntegration
 **Version**: 1.0  
 **Status**: Production Ready
 
-[Back to Single Window Overview](../single-window/overview.md) | [Next: Implementation Guides →](../implementation/overview.md)
+[Back to Single Window Overview](single-window-overview) | [Next: Customs Clearance Process →](guides/customs-clearance-process)

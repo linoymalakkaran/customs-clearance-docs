@@ -934,8 +934,8 @@ public class EdifactMessageCache
 - **CUSRES Message Specification**: UN/EDIFACT D.01B CUSRES
 
 ### JUL Project Documents
-- [JUL-AGT Integration Control Document](../../JUL-AGT_Integration_Control_Document.md)
-- [ASYCUDA Integration Guide](../implementation/asycuda-integration.md)
+- JUL-AGT Integration Control Document (internal reference)
+- [Integration Service](../single-window-overview#integration-service)
 - [WCO Data Model](wco-data-model.md)
 
 ### Related Resources

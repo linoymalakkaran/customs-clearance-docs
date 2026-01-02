@@ -719,7 +719,7 @@ public class HSCodeValidationService
 
 ### JUL Project Documents
 - [WCO Data Model](wco-data-model.md)
-- [Master Data Management](../implementation/data-architecture.md)
+- [Master Data Management](../single-window-overview#architecture)
 - JUL High Level Design Document
 
 ### Training Resources

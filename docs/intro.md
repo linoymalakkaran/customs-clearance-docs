@@ -32,7 +32,7 @@ JUL is Angola's digital platform that provides **ONE STOP** for all internationa
 **Learn the complete customs clearance process**
 
 1. [Customs Clearance Overview](customs-clearance-overview) - Start here
-2. [Import Clearance Process](docs/modules/customs-clearance-scenarios/import-clearance.md) - Step-by-step guide
+2. [Import Clearance Process](customs-clearance/import-clearance) - Step-by-step guide
 3. [Risk-Based Channels](customs-clearance-overview#risk-assessment-channels) - Green/Yellow/Orange/Red
 
 ### 💻 Developer/Integrator
@@ -46,8 +46,8 @@ JUL is Angola's digital platform that provides **ONE STOP** for all internationa
 **Learn international trade standards**
 
 1. [Single Window Concept](single-window-overview) - Theory and principles
-2. [International Standards](docs/standards/comprehensive-standards-overview.md) - WCO, UN, WTO, ISO
-3. [Glossary](docs/reference/glossary.md) - Terms and definitions
+2. [International Standards](standards/comprehensive-standards-overview) - WCO, UN, WTO, ISO
+3. [Glossary](reference/glossary) - Terms and definitions
 
 ### 🏛️ Government Official
 **Understand implementation and operations**
@@ -84,7 +84,7 @@ Understanding port and logistics operations:
 - Transport and last-mile delivery
 - Port Community System integration
 
-### 📋 [International Standards](docs/standards/comprehensive-standards-overview.md)
+### 📋 [International Standards](standards/comprehensive-standards-overview)
 Comprehensive standards reference covering 20+ standards:
 - **WCO**: Data Model 3.10, Revised Kyoto Convention, SAFE Framework, Harmonized System
 - **UN**: EDIFACT, CEFACT, LOCODE, UNTDED
@@ -94,6 +94,16 @@ Comprehensive standards reference covering 20+ standards:
 - **IMO**: SOLAS, VGM, FAL Convention, IMDG
 - **GS1**: GTIN, GLN, SSCC, EPCIS
 - **ICC**: Incoterms 2020, UCP 600
+
+---
+
+## 🔎 Looking for something specific?
+
+Use the left sidebar to browse by module, or start with:
+
+- [Customs Clearance Overview](customs-clearance-overview)
+- [Single Window Overview](single-window-overview)
+- [Port & Logistics Overview](port-logistics-overview)
 
 ---
 
@@ -159,27 +169,27 @@ Start with the overview documents to understand concepts:
 
 ### 2. **Explore Standards**
 Understand international standards used:
-- [Comprehensive Standards Overview](docs/standards/comprehensive-standards-overview.md)
-- [WCO Data Model](docs/standards/wco-data-model.md)
-- [UN/EDIFACT](docs/standards/un-edifact.md)
+- [Comprehensive Standards Overview](standards/comprehensive-standards-overview)
+- [WCO Data Model](standards/wco-data-model)
+- [UN/EDIFACT](standards/un-edifact)
 
 ### 3. **Follow Scenarios**
 Step-by-step processes for specific cases:
-- [Import Clearance](docs/modules/customs-clearance-scenarios/import-clearance.md)
+- [Import Clearance](customs-clearance/import-clearance)
 - [Risk-Based Clearance](customs-clearance-overview#risk-assessment-channels)
-- [Simplified Procedures](customs-clearance-overview#simplified-procedures)
+- [Simplified Procedures](customs-clearance/simplified-procedures)
 
 ### 4. **Implement Integration**
 For developers building integrations:
 - [Architecture](single-window-overview#architecture)
 - [API Integration](single-window-overview#integration-service)
-- [Code Examples](docs/standards/wco-data-model.md#implementation-examples)
+- [Code Examples](standards/wco-data-model#data-validation-rules)
 
 ### 5. **Reference Materials**
 Quick lookup for terms and codes:
-- [Glossary](docs/reference/glossary.md) - A-Z terms
-- [HS Classification](docs/standards/hs-classification.md) - Product codes
-- [ISO Standards](docs/standards/iso-standards.md) - Quality, security, containers
+- [Glossary](reference/glossary) - A-Z terms
+- [HS Classification](standards/hs-classification) - Product codes
+- [ISO Standards](standards/iso-standards) - Quality, security, containers
 
 ---
 

@@ -20,7 +20,7 @@ This module provides comprehensive end-to-end scenarios for all types of customs
 
 ## Available Scenarios
 
-### 1. [Import Clearance](import-clearance.md)
+### 1. [Import Clearance](customs-clearance/import-clearance)
 Complete import clearance process from cargo arrival to goods release.
 
 **Sub-scenarios**:
@@ -32,7 +32,7 @@ Complete import clearance process from cargo arrival to goods release.
 - Dangerous goods import
 - Perishable goods import
 
-### 2. [Export Clearance](export-clearance.md)
+### 2. [Export Clearance](customs-clearance/export-clearance)
 Export clearance process from declaration to cargo departure.
 
 **Sub-scenarios**:
@@ -43,7 +43,7 @@ Export clearance process from declaration to cargo departure.
 - Re-export of goods
 - Export of restricted goods
 
-### 3. [Transit Operations](transit-operations.md)
+### 3. [Transit Operations](customs-clearance/transit-operations)
 Transit and transshipment procedures.
 
 **Sub-scenarios**:
@@ -53,7 +53,7 @@ Transit and transshipment procedures.
 - Sealed container transit
 - Transit to landlocked countries
 
-### 4. [Temporary Admission](temporary-admission.md)
+### 4. [Temporary Admission](customs-clearance/temporary-admission)
 Temporary import with re-export obligation.
 
 **Sub-scenarios**:
@@ -63,7 +63,7 @@ Temporary import with re-export obligation.
 - Vehicles for temporary use
 - Equipment for infrastructure projects
 
-### 5. [Customs Warehousing](customs-warehousing.md)
+### 5. [Customs Warehousing](customs-clearance/customs-warehousing)
 Storage in customs warehouses and bonded areas.
 
 **Sub-scenarios**:
@@ -73,7 +73,7 @@ Storage in customs warehouses and bonded areas.
 - Duty suspension warehousing
 - Warehouse-to-warehouse transfer
 
-### 6. [Simplified Procedures](simplified-procedures.md)
+### 6. [Simplified Procedures](customs-clearance/simplified-procedures)
 Fast-track clearance for authorized operators.
 
 **Sub-scenarios**:
@@ -83,7 +83,7 @@ Fast-track clearance for authorized operators.
 - Postal imports
 - Low-value imports (de minimis)
 
-### 7. [Special Cases](special-cases.md)
+### 7. [Special Cases](customs-clearance/special-cases)
 Unique situations requiring special handling.
 
 **Sub-scenarios**:
@@ -94,7 +94,7 @@ Unique situations requiring special handling.
 - Returned goods
 - Defective goods replacement
 
-### 8. [Risk-Based Clearance](risk-based-clearance.md)
+### 8. [Risk-Based Clearance](customs-clearance/risk-based-clearance)
 ASYCUDA risk assessment channels.
 
 **Scenarios**:
@@ -103,7 +103,7 @@ ASYCUDA risk assessment channels.
 - Orange channel (physical inspection)
 - Red channel (detailed examination)
 
-### 9. [Post-Clearance Audit](post-clearance-audit.md)
+### 9. [Post-Clearance Audit](customs-clearance/post-clearance-audit)
 Verification after goods release.
 
 **Scenarios**:
@@ -112,7 +112,7 @@ Verification after goods release.
 - Self-assessment verification
 - Compliance audit
 
-### 10. [Appeals and Disputes](appeals-disputes.md)
+### 10. [Appeals and Disputes](customs-clearance/appeals-disputes)
 Handling customs disputes and appeals.
 
 **Scenarios**:
@@ -448,9 +448,9 @@ Handling customs disputes and appeals.
 Select a specific scenario from the list above to explore detailed step-by-step processes, system interactions, and code examples.
 
 **Recommended Learning Path**:
-1. Start with [Import Clearance](import-clearance.md) - Most common scenario
-2. Learn [Risk-Based Clearance](risk-based-clearance.md) - Understand channel selection
-3. Study [Simplified Procedures](simplified-procedures.md) - Fast-track options
+1. Start with [Import Clearance](customs-clearance/import-clearance) - Most common scenario
+2. Learn [Risk-Based Clearance](customs-clearance/risk-based-clearance) - Understand channel selection
+3. Study [Simplified Procedures](customs-clearance/simplified-procedures) - Fast-track options
 4. Explore other scenarios based on your needs
 
 ---

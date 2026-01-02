@@ -1227,7 +1227,7 @@ public async Task<Amendment> AmendDeclaration(
 
 - [WCO Data Model](../standards/wco-data-model.md)
 - [UN/EDIFACT Standards](../standards/un-edifact.md)
-- [ASYCUDA Integration](../implementation/asycuda-integration.md)
+- [ASYCUDA Integration](../single-window-overview#integration-service)
 - JUL High Level Design Document
 
 ---

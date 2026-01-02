@@ -61,9 +61,9 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'My Site',
+      title: 'JUL Documentation',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'JUL Documentation Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -88,7 +88,7 @@ const config: Config = {
           items: [
             {
               label: 'Getting Started',
-              to: '/docs/intro',
+              to: '/',
             },
             {
               label: 'Standards',

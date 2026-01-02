@@ -10,13 +10,6 @@
 2. [Pre-Arrival Phase](#pre-arrival-phase)
 3. [Arrival Phase](#arrival-phase)
 4. [Declaration Phase](#declaration-phase)
-5. [Assessment Phase](#assessment-phase)
-6. [Payment Phase](#payment-phase)
-7. [Inspection Phase](#inspection-phase)
-8. [Release Phase](#release-phase)
-9. [Post-Clearance Phase](#post-clearance-phase)
-10. [Special Cases](#special-cases)
-11. [Troubleshooting](#troubleshooting)
 
 ---
 
@@ -593,14 +586,10 @@ public class CargoStorageManager
 - Health/phytosanitary certificates (if required)
 - Other permits
 
-**Code Example** (continued in next section...)
-
-(Character limit - continuing in next file)
+**Code Example** (end of document)
 
 ---
 
 **Last Updated**: January 1, 2026  
 **Version**: 1.0  
-**Part**: 1 of 2
-
-[Continue to Part 2 →](import-clearance-part2.md)
+**Status**: Draft (content continues to be expanded)

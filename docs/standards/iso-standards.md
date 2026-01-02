@@ -1028,7 +1028,7 @@ public class MasterDataSync
 
 ### JUL Project Documents
 - [WCO Data Model](wco-data-model.md)
-- [Data Architecture](../implementation/data-architecture.md)
+- [Data Architecture](../single-window-overview#architecture)
 - JUL High Level Design Document
 
 ---

@@ -22,8 +22,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'angola-customs', // Usually your GitHub org/user name.
-  projectName: 'jul-documentation', // Usually your repo name.
+  organizationName: 'linoymalakkaran', // Usually your GitHub org/user name.
+  projectName: 'customs-clearance-docs', // Usually your repo name.
 
   onBrokenLinks: 'warn',
 
@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/linoymalakkaran/customs-clearance-docs',
         },
         blog: false, // Blog disabled
         theme: {
@@ -74,7 +74,7 @@ const config: Config = {
           label: 'Documentation',
         },
         {
-          href: 'https://github.com/angola-customs/jul-documentation',
+          href: 'https://github.com/linoymalakkaran/customs-clearance-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -118,7 +118,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/angola-customs/jul-documentation',
+              href: 'https://github.com/linoymalakkaran/customs-clearance-docs',
             },
           ],
         },

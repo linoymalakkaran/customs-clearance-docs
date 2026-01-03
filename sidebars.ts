@@ -127,6 +127,11 @@ const sidebars: SidebarsConfig = {
           id: 'single-window-overview',
           label: 'Overview & Architecture',
         },
+        {
+          type: 'doc',
+          id: 'clarification',
+          label: 'Clarifications & Open Questions',
+        },
       ],
     },
     {
